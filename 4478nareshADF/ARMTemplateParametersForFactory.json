@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "4478nareshADF"
+		},
+		"LS_blbsrc_connectionString": {
+			"value": ""
+		},
+		"LS_gen2dest_accountKey": {
+			"value": ""
+		},
+		"LS_gen2dest_properties_typeProperties_url": {
+			"value": "https://4478destsa.dfs.core.windows.net/"
+		}
+	}
+}
